@@ -7,11 +7,11 @@ Passionate about staying at the forefront of emerging technologies and trends, c
 
 ### Connect with me:
 
-[<img align="left" alt="Wasiq Abdullah | LinkedIn" width="22px" src="[https://avatars3.githubusercontent.com/u/357098?s=200&v=4](https://www.linkedin.com/in/muhammad-faizan-qureshi-/)" />][LinkedIn]
-[<img align="left" alt="Wasiq Abdullah | Kaggle" width="22px" src="#" />][Kaggel]
-[<img align="left" alt="Wasiq Abdullah | Behance" width="22px" src="#" />][Behance]
-[<img align="left" alt="Wasiq Abdullah | Dribble" width="22px" src="#" />][Dribble]
-[<img align="left" alt="Wasiq Abdullah | StackOverflow" width="22px" src="#" />][StackOverflow]
+[<img align="left" alt="M Faizan Qureshi | LinkedIn" width="22px"  src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][LinkedIn]
+[<img align="left" alt="M Faizan Qureshi | Kaggle" width="22px" src="#" />][Kaggel]
+[<img align="left" alt="M Faizan Qureshi | Behance" width="22px" src="#" />][Behance]
+[<img align="left" alt="M Faizan Qureshi | Dribble" width="22px" src="#" />][Dribble]
+[<img align="left" alt="M Faizan Qureshi | StackOverflow" width="22px" src="#" />][StackOverflow]
 
 <a href="#" target="_blank">Portfolio</a>
 <br />
