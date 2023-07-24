@@ -6,23 +6,15 @@ I am a passionate web developer with a keen interest in creating responsive and 
 Passionate about staying at the forefront of emerging technologies and trends, constantly seeking opportunities to expand my skill set and embrace new challenges. With a keen interest in Software Quality Assurance and Software Project Management, I bring strong attention to detail and a commitment to delivering high-quality results. I love exploring new technologies and frameworks to improve my skills and stay up-to-date with the latest trends in the industry.
 
 ### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-faizan-qureshi-/)
 
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:fq97294@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-YourEmail-red?style=flat&logo=gmail)](mailto:youremail@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/YourHandle)
 
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?style=flat&logo=twitter)](https://twitter.com/YourHandle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/MuhammadFaizanQureshi)
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-181717?style=flat&logo=github)](https://github.com/YourUsername)
-
-
-
-[<img align="left" alt="M Faizan Qureshi | LinkedIn" width="22px"  src="#" />][LinkedIn]
-[<img align="left" alt="M Faizan Qureshi | Kaggle" width="22px" src="#" />][Kaggel]
-[<img align="left" alt="M Faizan Qureshi | Behance" width="22px" src="#" />][Behance]
-[<img align="left" alt="M Faizan Qureshi | Dribble" width="22px" src="#" />][Dribble]
-[<img align="left" alt="M Faizan Qureshi | StackOverflow" width="22px" src="#" />][StackOverflow]
-
-<a href="#" target="_blank">Portfolio</a>
+[![Personal Website](https://img.shields.io/badge/Portfolio-9cf?style=flat&logo=wordpress)](https://www.yourwebsite.com)
 <br />
 
 ### Languages and Tools:
