@@ -10,11 +10,11 @@ Passionate about staying at the forefront of emerging technologies and trends, c
 
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:fq97294@gmail.com)
 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/YourHandle)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/FaizanQureshio1)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/MuhammadFaizanQureshi)
 
-<a href="https://github.com/MuhammadFaizanQureshi.web.app" target="_blank">Portfolio</a>
+<a href="https://github.com/MuhammadFaizanQureshi" target="_blank">Portfolio</a>
 <br />
 
 ### Languages and Tools:
