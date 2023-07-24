@@ -23,23 +23,15 @@ Passionate about staying at the forefront of emerging technologies and trends, c
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-%239B59B6.svg?style=flat-square&logo=woocommerce&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-%23563D7C.svg?style=flat-square&logo=elementor&logoColor=white) ![ACF](https://img.shields.io/badge/Advanced%20Custom%20Fields-%232E8ACE.svg?style=flat-square&logo=advanced-custom-fields&logoColor=white) ![Yoast SEO](https://img.shields.io/badge/Yoast%20SEO-%235FBEAA.svg?style=flat-square&logo=yoast&logoColor=white)
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=chwasiq0569&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=chwasiq0569&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chwasiq0569&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- [![Wasiq Abdullah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chwasiq0569&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chwasiq0569&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFaizanQureshi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFaizanQureshi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=MuhammadFaizanQureshi&icon=6&color=0)](https://visitcount.itsvg.in)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=chwasiq0569&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br />
 <br />
 <br />
 
-[Kaggel]: https://www.kaggle.com/chwasiq0569
-[LinkedIn]: https://www.linkedin.com/in/wasiq-abdullah-b515031a6/
-[Behance]: https://www.behance.net/wasiqabdullah
-[Dribble]: https://dribbble.com/chwasiq0569
-[Medium]: https://medium.com/@wasiqabdullah222
-[StackOverflow]: https://stackoverflow.com/users/16070355/wasiq-abdullah
+[LinkedIn]: https://www.linkedin.com/in/muhammad-faizan-qureshi-/
