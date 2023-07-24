@@ -6,9 +6,6 @@ I am a passionate web developer with a keen interest in creating responsive and 
 Passionate about staying at the forefront of emerging technologies and trends, constantly seeking opportunities to expand my skill set and embrace new challenges. With a keen interest in Software Quality Assurance and Software Project Management, I bring strong attention to detail and a commitment to delivering high-quality results. I love exploring new technologies and frameworks to improve my skills and stay up-to-date with the latest trends in the industry.
 
 ### Connect with me:
-<a href="(https://www.linkedin.com/in/muhammad-faizan-qureshi-/)/in/YourProfile/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
-</a>
 
 
 [![Email](https://img.shields.io/badge/Email-YourEmail-red?style=flat&logo=gmail)](mailto:youremail@example.com)
