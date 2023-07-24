@@ -14,7 +14,7 @@ Passionate about staying at the forefront of emerging technologies and trends, c
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/MuhammadFaizanQureshi)
 
-[![Personal Website](https://img.shields.io/badge/Portfolio-9cf?style=flat&logo=wordpress)](https://www.yourwebsite.com)
+<a href="https://github.com/MuhammadFaizanQureshi.web.app" target="_blank">Portfolio</a>
 <br />
 
 ### Languages and Tools:
