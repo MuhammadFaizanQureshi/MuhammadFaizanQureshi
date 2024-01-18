@@ -1,6 +1,6 @@
 # 🏄‍♂️ Muhammad Faizan Qureshi
 
-**`Website Developer (Developer)`**
+**`Website Developer`**
 
 I am a passionate web developer with a keen interest in creating responsive and user-friendly websites. Highly motivated and recently graduated with a BS in Software Engineering, specializing in Frontend Web Development. Proficient in HTML5, CSS, JavaScript, and WordPress, with a focus on creating captivating and user-friendly interfaces.
 Passionate about staying at the forefront of emerging technologies and trends, constantly seeking opportunities to expand my skill set and embrace new challenges. With a keen interest in Software Quality Assurance and Software Project Management, I bring strong attention to detail and a commitment to delivering high-quality results. I love exploring new technologies and frameworks to improve my skills and stay up-to-date with the latest trends in the industry.
